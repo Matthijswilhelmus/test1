@@ -11,7 +11,7 @@ package oefening701;
  */
 public class Datum {
     private int dag, maand, jaar;   
-
+    private int decenium;
     
   public Datum( int dag, int maand, int jaar ) {
     this.dag = dag;
